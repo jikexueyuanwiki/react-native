@@ -42,7 +42,6 @@ Facebook 于 2015 年 9 月 15 日发布了 React Native for Android， 把 Web 
 |更新日期    |更新内容
 |----------|--------------------
 |2015-09-17|React Native 中文教程(For Android)发布
-<<<<<<< HEAD
 
 ## 贡献者名单
 
