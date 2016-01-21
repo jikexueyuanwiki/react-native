@@ -1,4 +1,4 @@
-# React Native 中文版(含新增 Android 章节)ceshi
+# React Native 中文版(含新增 Android 章节)
 
 Facebook 在 [React.js Conf 2015](http://conf.reactjs.com/) 大会上推出了基于 JavaScript 的开源框架 [React Native](http://facebook.github.io/react-native/)，本中文教程翻译自 [React Native 官方文档](http://facebook.github.io/react-native/docs/getting-started.html)。
 
