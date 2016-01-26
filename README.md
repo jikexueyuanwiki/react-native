@@ -42,6 +42,7 @@ Facebook 于 2015 年 9 月 15 日发布了 React Native for Android， 把 Web 
 如有任何关于翻译、内容或资源推荐，欢迎通过 GitHub 提交 PR 给我们。\\(o_X)/
 
 > React Native 官网：[http://facebook.github.io/react-native/](http://facebook.github.io/react-native/)
+> 
 > GitHub 地址：[https://github.com/jikexueyuanwiki/react-native](https://github.com/jikexueyuanwiki/react-native)
 
 
