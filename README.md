@@ -15,7 +15,7 @@ React Native 使你能够使用基于 JavaScript 和 [React](http://wiki.jikexue
 >
 >条件：首批开放给：零基础\转行从业者
 
-### React Native QQ群
+### React Native 交流群
 
 加入React Native QQ 交流群：220997090 和大家一起交流学习 React Native      
 
