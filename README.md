@@ -19,7 +19,7 @@ React Native 使你能够使用基于 JavaScript 和 [React](http://wiki.jikexue
 
 React Native QQ 交流群已加满，请加交流2群：5335944997 和大家一起交流学习 React Native      
 
-![ReactNativeQQ](images/ReactNative技术交流群群二维码.png)
+![ReactNativeQQ](images/ReactNative技术交流群群二维码2群.png)
 
 ## **React Native for Android**
 
