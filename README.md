@@ -6,15 +6,6 @@ React Native 结合了 Web 应用和 Native 应用的优势，可以使用 JavaS
 
 React Native 使你能够使用基于 JavaScript 和 [React](http://wiki.jikexueyuan.com/project/react/) 一致的开发体验在本地平台上构建世界一流的应用程序体验。React Native 把重点放在所有开发人员关心的平台的开发效率上——开发者只需学习一种语言就能轻易为任何平台高效地编写代码。Facebook 在多个应用程序产品中使用了 React Native，并将继续为 React Native 投资。    
 
-><p><span style="font-size:18px; color:red;font-weight:bold";>前端公开课基础群</span>          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:18px; color:blue;font-weight:bold";>Web 前端导学课</span></p>
->![](http://wiki.jikexueyuan.com/project/html5/images/web.png) 
->![](http://wiki.jikexueyuan.com/project/html5/images/web-toc1.jpg)
->
-> 欢迎加 QQ 群： 185186017
-><p><span style="color:red"; >说明：专为 **0** 基础用户提供全技术服务交流，定期提供一线大牛**免费**公开课福利。</span></p>
->
->条件：首批开放给：零基础\转行从业者
-
 ### React Native 交流群
 
 React Native QQ 交流群已加满，请加交流2群：533594997 和大家一起交流学习 React Native      
