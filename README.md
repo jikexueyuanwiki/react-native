@@ -6,17 +6,16 @@ React Native 结合了 Web 应用和 Native 应用的优势，可以使用 JavaS
 
 React Native 使你能够使用基于 JavaScript 和 [React](http://wiki.jikexueyuan.com/project/react/) 一致的开发体验在本地平台上构建世界一流的应用程序体验。React Native 把重点放在所有开发人员关心的平台的开发效率上——开发者只需学习一种语言就能轻易为任何平台高效地编写代码。Facebook 在多个应用程序产品中使用了 React Native，并将继续为 React Native 投资。
 
-## 公开课   
+## 测评必送豪礼   
 
-![image](http://7xlnmt.com1.z0.glb.clouddn.com/blog%2Fsurvey.jpg)
+![image](images/banner.jpg)
 
->公开课时间： 2016.4.18 下午15:00    
->公开课标题：《让你更关注工作的Gradle》   
->公开课报名地址：[http://jikexueyuan.mikecrm.com/dvqzR3](http://jikexueyuan.mikecrm.com/dvqzR3)   
+>活动时间： 2016.4.20～    
+>测评地址：[http://jikexueyuan.mikecrm.com/oaAsJv](http://jikexueyuan.mikecrm.com/oaAsJv)   
 >报名福利：   
- 1. 10门精品Android课程讲义PPT及源码   
- 2. 5门精品Wiki PDF电子书  
- 3. 金牌布道师推荐的Android学习书单   
+ 1. 40门精品课程讲义PPT及源码   
+ 2. 30门精品Wiki PDF电子书  
+ 3. 金牌布道师推荐的学习书单（涵盖多个领域）   
  4. 随机选取20名同学发送极客学院30天VIP F码到手机
 
 ### React Native 交流群
