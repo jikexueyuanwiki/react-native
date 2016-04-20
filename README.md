@@ -10,7 +10,7 @@ React Native 使你能够使用基于 JavaScript 和 [React](http://wiki.jikexue
 
 ![image](images/banner.jpg)
 
->活动时间： 2016.4.20～    
+>活动时间： 2016.4.20～？    
 >测评地址：[http://jikexueyuan.mikecrm.com/oaAsJv](http://jikexueyuan.mikecrm.com/oaAsJv)   
 >报名福利：   
  1. 40门精品课程讲义PPT及源码   
